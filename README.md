@@ -7,3 +7,6 @@ this is life
 //更加简洁
 //严格化
 //css起名字
+
+
+closed
